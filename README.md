@@ -1,2 +1,2 @@
-# lifeof.terome
-terome discord server
+# Welcome
+you're in the website
